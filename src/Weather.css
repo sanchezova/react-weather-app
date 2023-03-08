@@ -30,12 +30,13 @@
   font-size: 62px;
   line-height: 62px;
   color: black;
+  margin-left: -10px;
 }
 .Weather .unit {
   color: black;
   font-size: 16px;
   position: relative;
-  top: -30px;
+  top: -32px;
   margin-left: 5px;
   line-height: 1;
 }
