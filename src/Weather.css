@@ -32,15 +32,16 @@
   font-size: 62px;
   line-height: 62px;
   color: black;
-  top: 15px;
-  left: 10px;
+  top: -40px;
+  left: 60px;
   position: relative;
 }
 .Weather .unit {
   color: black;
   font-size: 16px;
   position: relative;
-  top: -18px;
+  top: -72px;
+  left: 50px;
   margin-left: 10px;
   line-height: 1;
 }
