@@ -33,8 +33,9 @@
   position: relative;
   margin-bottom: -10px;
   top: 10px;
+  margin-right: 10px;
 }
-.Weather .temperature {
+/*.Weather .temperature {
   font-size: 48px;
   line-height: 62px;
   color: black;
@@ -42,6 +43,7 @@
   left: 60px;
   position: relative;
 }
+
 .Weather .unit {
   color: black;
   font-size: 16px;
@@ -49,7 +51,8 @@
   top: -72px;
   left: 70px;
   line-height: 1;
-}
+}*/
+
 .WeatherForecast-day {
   margin-top: 30px;
 }
